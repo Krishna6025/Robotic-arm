@@ -10,7 +10,8 @@ The essential prerequisets of this project are:
 3)Android app to control the motion of the Arm.<br/>
 4)Body for the Arm.<br/><br/>
 
-The Arduino code was written 
+The Arduino code was written 2.3.3 version of the IDE. The servo sheild PCA9685 which is a I2C board with 16 channel which is powered using 2-18650 3.3v rechagable battery. The main purpose of having the servo sheild is to provide enough current to the MG995 servos which the Arduino cannot handle at once.
+
 
 
 The structure of the Arm is 3-D printed with PLA material.
