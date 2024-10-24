@@ -10,8 +10,10 @@ The essential prerequisets of this project are:
 3)Android app to control the motion of the Arm.<br/>
 4)Body for the Arm.<br/><br/>
 
-The Arduino code was written 2.3.3 version of the IDE. The servo sheild PCA9685 which is a I2C board with 16 channel which is powered using 2-18650 3.3v rechagable battery. The main purpose of having the servo sheild is to provide enough current to the MG995 servos which the Arduino cannot handle at once.
-
+The Arduino code was written 2.3.3 version of the IDE. The servo sheild PCA9685 which is a I2C board with 16 channel which is powered using 2-18650 3.3v rechagable battery. The main purpose of having the servo sheild is to provide enough current to the MG995 servos which the Arduino cannot handle at once.<br/>
+<!-- write about HC-05-->
+<!-- include pics of servo-->
+The controller for the Arm is an Android app which was made using [mit app inventer ](https://appinventor.mit.edu/). The code blocks for the app was taken from the blog of [How to mechatronics](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/) The APK for the app is present in the repo that can be downloaded and installed in any Android(8+) phone. The values for the arm can be tweeked by uploding the file to the website.<br/>
 
 
 The structure of the Arm is 3-D printed with PLA material.
