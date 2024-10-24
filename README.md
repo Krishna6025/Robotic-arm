@@ -21,5 +21,5 @@ Bluetooth Connection: Pre-existing apps on the Play Store could not connect to t
 Power Source: As I intended for the arm to remain stationary, I opted to power the Arduino with a USB-B connection while the servo shield is powered by rechargeable batteries.<br/>
 <br/><br/>
 
-# installation<br/>
+# Installation<br/>
 Following the circuit diagram and the instructions from the video assembling the Arm is simple. The main hinderence is the varity of screws used in the build.
