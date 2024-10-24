@@ -18,5 +18,14 @@ The controller for the Arm is an Android app which was made using [mit app inven
 
 The structure of the Arm is 3-D printed with PLA material.
 The CAD files for this model was taken from a fellow robotic enthusisat Kelton of 
-Build Some Stuff youtube channel. These files are present on https://www.printables.com/model/818975-compact-robot-arm-arduino-3d-printed website for free download. They should also be present in this repo (in case), if not message me for the STL file.
-<br />
+[Build Some Stuff youtube channel](https://www.youtube.com/@buildsomestuff). These files are present on https://www.printables.com/model/818975-compact-robot-arm-arduino-3d-printed website for free download. They should also be present in this repo (in case), if not message me for the STL file.
+<br /><br/>
+
+<!--circuit diagram graphically-->
+# Challenges
+
+The setbacks faced in the making of the Arm started with the bluetooth connection. The preexisting apps present in the playstore could not connect my HC-05 hence we had to go with the custom app which took a lot of time.<br/>
+The second challenge was the power source for the Arm. As i wanted this Arm in a statinary place i opted to power the Arduino with USB B and the servo sheild is powered with rechargeable battery.<br/>
+
+
+
